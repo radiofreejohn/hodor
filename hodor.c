@@ -1,5 +1,5 @@
 // hodor
-// gcc hodor.c -o hodor
+// make hodor
 // ./hodor
 #include <stdio.h>
 
